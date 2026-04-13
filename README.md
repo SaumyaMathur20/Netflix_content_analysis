@@ -1,5 +1,11 @@
 # 🎬 Netflix Content Strategy Analysis (Python EDA)
 
+## Some visuals from the analysis 
+<img width="450" height="388" alt="mvst" src="https://github.com/user-attachments/assets/8286b60e-4f4e-4fbf-ba07-8654f2fb0557" />
+
+<img width="1014" height="506" alt="output" src="https://github.com/user-attachments/assets/ae5c251a-d976-4a20-b22c-0c0b485fc09b" />
+
+
 ## 📌 What this project is about
 
 Analyzed Netflix dataset (~8000 titles) to understand:
